@@ -73,10 +73,10 @@
     <?php
     // DirectAdmin 密码修改插件配置
     $config['password_driver'] = 'directadmin';
-    $config['password_directadmin_host'] = 'ssl://uk10.neodns.info'; // 您的 DA 面板地址
+    $config['password_directadmin_host'] = 'ssl://090110.xyz'; // 您的 DA 面板地址
     $config['password_directadmin_port'] = 2222;
-    $config['password_directadmin_username'] = 'eebu'; // 您的 DA 用户名
-    $config['password_directadmin_password'] = 'Abc123'; // 您的 DA 密码
+    $config['password_directadmin_username'] = 'edu'; // 您的 DA 用户名
+    $config['password_directadmin_password'] = 'mima'; // 您的 DA 密码
     ?>
     ```
 4.  登录 Roundcube，进入“设置”菜单测试密码修改功能。
